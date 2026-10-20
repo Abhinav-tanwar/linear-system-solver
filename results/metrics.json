@@ -1,0 +1,8 @@
+{
+  "rank": 10,
+  "condition_number": 7891.973434119545,
+  "solve_residual": 7.105427357601e-13,
+  "inverse_residual": 5.506706202141e-14,
+  "inverse_agreement": 4.654054919229e-13,
+  "transpose_identity_error": 0
+}
