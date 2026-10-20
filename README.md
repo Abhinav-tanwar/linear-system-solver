@@ -1,2 +1,3 @@
 # linear-system-solver
-Tolerance-aware row reduction, inverse validation, and reproducible linear-system diagnostics in R.
+
+Reproducible R analysis. See data/README.md for input provenance.
