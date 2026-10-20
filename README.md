@@ -24,3 +24,5 @@ Numerical checks verify residuals rather than relying on exact floating-point eq
 ## Reproducibility and scope
 
 Seeds are fixed in source. Validation uses numerical invariants or input/split checks. This is a maintained reconstruction of the supplied work; methodological corrections and newly generated data mean some results intentionally differ from the original reports. Original PDFs are omitted to avoid publishing student identifiers.
+
+Additional source coverage includes matrix structure and transpose identities. Spectral diagnostics, where applicable, distinguish image/null bases, rectangular rank–nullity, outer-product rank, and symmetric orthogonality.

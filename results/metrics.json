@@ -1,4 +1,6 @@
 {
+  "transpose_identity_errors": [0, 0, 0],
+  "normal_sample_mean": -0.1508247310539,
   "rank": 10,
   "condition_number": 7891.973434119545,
   "solve_residual": 7.105427357601e-13,
